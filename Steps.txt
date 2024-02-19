@@ -1,0 +1,6 @@
+Data Analyst
+a. Belajar matematika
+b. Dasar dasar statistika
+c. Database DBMS MySQL
+d. Data visual : Tableau
+e. Bahasa pemrograman : Python
